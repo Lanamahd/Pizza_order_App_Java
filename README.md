@@ -33,16 +33,16 @@ This project is a **Pizza Order Application** implemented in Java with a touch o
     java -cp bin Main
 
 ## File Structure
-/
-├── src/                     # Java source code files
-│   ├── Main.java            # Entry point of the application
-│   ├── Order.java           # Handles order details and logic
-│   ├── Pizza.java           # Defines pizza types, sizes, and toppings
-│   └── UI.java              # User interface logic
-├── assets/                  # CSS files for styling
-│   └── styles.css           # Styles for the UI
-├── README.md                # Project documentation
-└── LICENSE                  # License for the project
+      /
+      ├── src/                     # Java source code files
+      │   ├── Main.java            # Entry point of the application
+      │   ├── Order.java           # Handles order details and logic
+      │   ├── Pizza.java           # Defines pizza types, sizes, and toppings
+      │   └── UI.java              # User interface logic
+      ├── assets/                  # CSS files for styling
+      │   └── styles.css           # Styles for the UI
+      ├── README.md                # Project documentation
+      └── LICENSE                  # License for the project
 
 ## Usage
 1. Launch the application by running Main.java.
