@@ -47,6 +47,6 @@ This project is a **Pizza Order Application** implemented in Java with a touch o
 ## Usage
 1. Launch the application by running Main.java.
 2. Follow the on-screen instructions to:
-- Customize your pizza order.
-- Add or remove items from your order.
-- View the final order summary with pricing.
+   - Customize your pizza order.
+   - Add or remove items from your order.
+   - View the final order summary with pricing.
